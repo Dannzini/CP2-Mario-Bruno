@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mario/Documents/FIAP/C#/CP2/ApiUsuario/ApiUsuario/ApiUsuario.csproj": {}
+    "C:\\Users\\bruno\\Source\\Repos\\CP2-Mario-Bruno\\ApiUsuario\\ApiUsuario.csproj": {}
   },
   "projects": {
-    "/Users/mario/Documents/FIAP/C#/CP2/ApiUsuario/ApiUsuario/ApiUsuario.csproj": {
+    "C:\\Users\\bruno\\Source\\Repos\\CP2-Mario-Bruno\\ApiUsuario\\ApiUsuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mario/Documents/FIAP/C#/CP2/ApiUsuario/ApiUsuario/ApiUsuario.csproj",
+        "projectUniqueName": "C:\\Users\\bruno\\Source\\Repos\\CP2-Mario-Bruno\\ApiUsuario\\ApiUsuario.csproj",
         "projectName": "ApiUsuario",
-        "projectPath": "/Users/mario/Documents/FIAP/C#/CP2/ApiUsuario/ApiUsuario/ApiUsuario.csproj",
-        "packagesPath": "/Users/mario/.nuget/packages/",
-        "outputPath": "/Users/mario/Documents/FIAP/C#/CP2/ApiUsuario/ApiUsuario/obj/",
+        "projectPath": "C:\\Users\\bruno\\Source\\Repos\\CP2-Mario-Bruno\\ApiUsuario\\ApiUsuario.csproj",
+        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno\\Source\\Repos\\CP2-Mario-Bruno\\ApiUsuario\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/mario/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.314/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -33,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -87,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
